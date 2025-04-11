@@ -1,29 +1,28 @@
 
-# Victor Piristrello
+# Victor Piristrello Alexandre
+### Analista de Dados em Desenvolvimento | Estudante de Ciência da Computação | Apaixonado por Dados e Tecnologia
 
-**`Analista de Dados`**
+Sou um profissional em transição de carreira para a área de Dados, com foco em análise, manipulação e visualização de dados. Estudante de Ciência da Computação, apaixonado por tecnologia e pelo poder transformador dos dados. 
 
-# 👨‍💻 Victor Piristrello Alexandre
-
-**`Analista de Dados em Desenvolvimento`**
-
-Estudante de Ciência da Computação, apaixonado por tecnologia e dados. Em transição de carreira para a área de Dados, com foco em análise, manipulação e visualização de dados. Em constante aprendizado e desenvolvimento de projetos práticos para transformação de dados em soluções estratégicas.
+Tenho como objetivo utilizar a tecnologia para gerar soluções estratégicas, apoiar tomadas de decisão e criar insights valiosos através da análise de dados. Estou em constante evolução, desenvolvendo projetos práticos e ampliando meu conhecimento técnico.
 
 ---
 
-### 📍 São Paulo – SP | Zona Leste  
-📞 (11) 96661-2082  
-📧 victorpiristrelloalex@gmail.com  
-🔗 www.linkedin.com/in/victorpiristrello  
+## 📍 Localização
+São Paulo – SP | Zona Leste
+
+## 📞 Contato
+- Telefone: (11) 96661-2082
+- E-mail: victorpiristrelloalex@gmail.com
+- LinkedIn: [linkedin.com/in/victorpiristrello](https://www.linkedin.com/in/victorpiristrello)
 
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-
-- Python (Pandas | NumPy | Matplotlib)
-- SQL (Manipulação, Joins, Filtros, Consultas)
-- Power BI (Criação de dashboards)
-- Excel (Intermediário/Avançado)
+- Python (Pandas, NumPy, Matplotlib)
+- SQL (Manipulação de Dados, Joins, Filtros, Consultas)
+- Power BI (Criação de Dashboards)
+- Excel (Intermediário / Avançado)
 - Modelagem de Dados
 - Lógica de Programação
 - Análise Exploratória de Dados
@@ -31,63 +30,74 @@ Estudante de Ciência da Computação, apaixonado por tecnologia e dados. Em tra
 
 ---
 
-## 📚 Formação
-
-- Ciência da Computação – UNICID *(Em andamento)*  
-- Pós-graduação em Gestão de Negócios PJ – Varejo e Middle Market – EMB *(Concluído)*  
-- Administração – UNINOVE *(Concluído)*  
-- Técnico em Eletroeletrônica – SENAI *(Concluído)*  
+## 🎓 Formação Acadêmica
+- Ciência da Computação – UNICID *(Em andamento)*
+- Pós-graduação em Gestão de Negócios PJ – Varejo e Middle Market – EMB *(Concluído)*
+- Administração – UNINOVE *(Concluído)*
+- Técnico em Eletroeletrônica – SENAI *(Concluído)*
 
 ---
 
-## 🚀 Cursos em andamento
-
-- Formação Cientista de Dados – Alura  
-- Estatística e Machine Learning – Udemy  
-- SQL – Alura  
-- Excel do Básico ao Avançado – Udemy  
+## 🚀 Cursos em Andamento
+- Formação Cientista de Dados – Alura
+- Estatística e Machine Learning – Udemy
+- SQL – Alura
+- Excel do Básico ao Avançado – Udemy
 
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-          
-/>
+<div style="display: inline_block"><br>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<a href="#" title="Python">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
 
-<br/>
-<br/>
+<a href="#" title="Jupyter Notebook">
+  <img align="center" alt="Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+</a>
 
-### 📊 Estatísticas
+<a href="#" title="Pandas">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+</a>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VictorPiristrello&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<a href="#" title="NumPy">
+  <img align="center" alt="NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+</a>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPiristrello&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<a href="#" title="MySQL">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</a>
 
-</p>
+<a href="#" title="Power BI">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://img.icons8.com/color/48/000000/power-bi.png">
+</a>
+
+<a href="#" title="Excel">
+  <img align="center" alt="Excel" height="40" width="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png">
+</a>
+
+</div>
+
+
+<div align="center">
+
+<a href="https://github.com/VictorPiristrello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorPiristrello&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</a>
+
+<a href="https://github.com/VictorPiristrello">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorPiristrello&layout=compact&langs_count=7&theme=dark"/>
+</a>
+
+</div>
+
+---
+
+## 🚀 GitHub Contributions (Últimos 365 dias)
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorPiristrello&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
